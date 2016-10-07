@@ -1,0 +1,13 @@
+1: Train: examples1.txt, examples2.txt 
+   Test:examples3.txt
+Accuracy: 0.67066
+
+2: Train: examples1.txt, examples3.txt
+   Test: examples2.txt
+Accuracy: 0.70871
+
+3: Train: examples2.txt, examples3.txt
+   Test: examples1.txt
+Accuracy: 0.68769
+
+Average accuracy: 0.68902
